@@ -1,0 +1,3 @@
+# http://askubuntu.com/questions/174872/how-do-i-install-truecrypt
+tar -xzvf truecrypt-7.1a-linux-x64.tar.gz
+./truecrypt-7.1a-setup-x64
