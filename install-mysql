@@ -1,1 +1,3 @@
-sudo dpkg -i mysql-workbench-community-6.1.4-1ubu1310-amd64.deb
+sudo wget http://dev.mysql.com/get/Downloads/MySQLGUITools/mysql-workbench-community-6.1.6-1ubu1310-i386.deb
+sudo dpkg -i mysql-workbench-community-6.1.6-1ubu1310-i386.deb
+sudo rm -f mysql-workbench-community-6.1.6-1ubu1310-i386.deb
