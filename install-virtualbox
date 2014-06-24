@@ -1,1 +1,1 @@
-sudo apt-get install virtualbox
+sudo apt-get -y install virtualbox
